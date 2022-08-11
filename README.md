@@ -1,4 +1,9 @@
 # BII-Scientific-Computing-Workshop-2022
-My first repo made during git version control demo session
+
+
+# header 2
+
+## header 3
 
 Adding some text, stage & commit
+
